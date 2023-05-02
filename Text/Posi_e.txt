@@ -1,0 +1,84 @@
+dead pixels[+1], color bleeding[+1] ## I have seen no dead pixels or color bleeding that I 've heard about with other ACER models
+colors[+1], viewing angle[+1], quality[+1] ## The colors and viewing angle are about average , but a huge upgrade from the truly terrible quality of the other monitor .
+monitor[+1] ## Not a bad monitor for $ 120 but it 's nothing special .
+cheap[+1][a] ## I was a little skeptical because of how cheap it was .
+price[+1] ## Ca n't beat it for the price .
+small[+1][a] ## Relatively small desktop footprint too .
+cheap[-1][a], expensive[+1][a] ## Not cheap but not expensive either .
+looks[+1] ## I give it a rating of 5 stars for looks .
+packaged[+1][v] ## It came well-packaged .
+USB port[+1] ## It has a USB port -- so you can plug in a USB-powered drive and have network-accessible storage .
+Battery[+1] ## Battery last longer too .
+price[+1] ## Purchased this item because of reviews and price .
+ACER widescreen[+1], ULTRA Slim monitor[+1] ## Thuumbs up to ACER widescreen ULTRA Slim monitor .
+screen[+1] ## Things are much more distinct , and I do n't have to strain my eyes and squint when I am trying to read something on the screen -LRB- like I had to do with my clunky old monitor -RRB- .
+set up[+1][v] ## Piece of cake to set up .
+product[+1], price[+1] ## I took a chance with this new product and am pleased , except in six months it will cost half of what I paid , but that 's the price for current state of the art .
+reception[+1] ## From the Belkin my reception increased over 25 % .
+signal strength[+1], speed[+1] ## Have n't setup any advanced features , but the signal strength and speed are roughly twice what I had with old router .
+speed[+1], connection[+1] ## Our connection and speed immediately soared once it was online and our network was set up .
+firmware upgrade[+1] ## PLEASE A firmware upgrade that enables all the usb drives attached to this wireless router to be seen in the actual networked local computer desktop portals AND be able to drag and drop , upload , attach , etc. .
+sound[+1] ## The sound is pretty good also -LRB- although not anything like a 5.1 surround system -RRB- There is reflection , but I only really notice it when the display is off , in which case you see you own reflection on the screen .
+insurance[+1] ## Not that Apple computers break down often but this is cheap insurance for 3 years .
+memory[+1] ## The memory is not really hard to upgrade .
+small[+1][a], value[+1] ## It 's so small , but big value Mac .
+machine[+1] ## This machine will change your whole idea of what a laptop should be .
+machine[+1] ## This machine is a replacement for your desktop .
+Brightness[-1], viewing angle[-1], price[+1] ## Brightness could be better and the viewing angle is not great , but for the price I paid for a 24inch monitor , this can not be beat .
+dead pixels[+1] ## No dead pixels on mine .
+colors[+1] ## The changing colors help to tell , with a quick glance .
+contrast[+1], crispness[+1], readability[+1], viewing angles[+1] ## The contrast , crispness , and readability from even the most extreme viewing angles ca n't be beat .
+monitor[+1] ## I have used this monitor for a few months and have had no problems .
+contrast[+1], brightness[+1], viewing angles[+1] ## I can see a drastic difference between this monitor and Dell Ultrasharp in terms of contrast , brightness and viewing angles .
+GPU hardware acceleration[+1] ## I think the real reason that made the changes is that it now uses GPU hardware acceleration .
+price[+1] ## This product is hard to beat at any price .
+resolution[+1] ## I am in the business and have seen many 19 '' LCD monitors that sell for much , much more , and aside from monitors with a higher resolution -LRB- ie 1600 x 1200 -RRB- , there is no noticable difference at all .
+screen[+1] ## Things are much more distinct , and I do n't have to strain my eyes and squint when I am trying to read something on the screen -LRB- like I had to do with my clunky old monitor -RRB- .
+Tiny[+1][a] ## Tiny .
+quality product[+1] ## If you want a quality product , delivered on time , buy this one .
+satellite speakers[+1], bass tones[+1] ## The satellite speakers actually are really reach in the bass tones .
+power[+1] ## Well it had good power but no precision at all .
+Volume level[+1] ## Volume level is OK .
+bass[-1], sheer volume[+1] ## I do wish I could enjoy lots of bass without the sound losing quality , but the sheer volume of this thing makes up for that !
+loud[+1][a] ## My brother and I were equally shocked at how loud this thing really is .
+design[+1], sound quality[+1] ## Obviously , one of the advantages of this design is the improvement in sound quality , but there is the disadvantage as well of potential damage .
+units[+1], speakers[+1] ## Both units are small , with similarly small speakers .
+product[+1] ## I 'm not easily impressed by electronics , tending to be a little conservative , but this product really deserves five stars .
+speakers[+1], sound[+1] ## This tiny speakers produce really big sound .
+Sub woofer[+1] ## - Sub woofer is large .
+speakers[+1] ## If I were to rate these speakers on my listening needs , I would give a 2.5 stars , but I 'm giving 4 because I think they do the job that most people want them for .
+woofer[+1] ## The woofer is much larger .
+computer speakers[+1] ## These are the only computer speakers I 've ever bought so I have no comparison to anything else .
+speakers[+1], value[+1] ## These speakers are a greatg value I use them as rear speakers with polk fronts and center .
+sound[+1] ## You can fill a small room with sound pretty good , but do n't think it rivals a home theater system .
+looks[+1] ## If you are concerned about looks , get these .
+sound[+1], design[+1] ## The sound this slim design puts out !!
+paired[+1][v] ## I paired this very easily to two different Android phones .
+cost[+1] ## For the cost of this product i could not ask for more .
+sound quality[+1] ## The sound quality is very exceptable .
+works[+1][v] ## It works fine without the dock , but it 's shaky and unstable .
+design[+1], transporting[+1][v], Sound[+1], sound[+1], volume levels[+1] ## Here are my observations : Pros : + Folding ; these have a very clever design that allows them to fold in to a small cube for easy transporting + Good Sound ; produces fairly good sound at all but the highest volume levels -LRB- see `` Cons '' , below -RRB- , at least to my untrained ear + Universal Connector ; the unit uses a standard mini connector , so this can be used with all of MP3 players + Power Options ; comes with a USB power cable or it can use 4 x AAA batteries .
+sound[+1], size[+1], price[+1] ## The sound is great , not as good as my $ 1000 each Klipsch R7s , but come on , for the size and price , you will not beat these units .
+sound[+1] ## After seeing and hearing the sound of the I-Tour Pop speaker , I was sold .
+stands[+1] ## I have no problem at all recommending these stands .
+speakers[+1], cheep[+1][a] ## Billy Joel was n't kidding when he said you get more mileage from a cheep pair of speakers .
+price[+1], sound[+1] ## For the price of theese speakers the sound that comes out is unbelievable .
+warranty[+1] ## It also has a 10 year warranty , which is just icing on the cake .
+sounds[+1] ## Again , the sounds were spot-on and projected from where they should , the front of the TV .
+speaker bar[+1] ## The speaker bar response was spot-on .
+size[+1] ## The size is small .
+controller[+1], volume knob[+1], selector buttons[+1] ## I especially love the ` remote ' controller stand with it 's big volume knob and simple selector buttons .
+product[+1], quality[+1], weight[+1] ## The comparable product in quality is the old style Shelf Speaker popular in the 80 's , called the brick , but this unit does not have the weight of that product .
+speed[+1], reliability[+1], transmit a signal[+1][v] ## However , if speed , reliability , and power to transmit a signal across the house are your requirements , then this router will do the job .
+software[+1] ## The final insult is that while this router comes with useful software to make sharing printers wirelessly a snap , it 's only a trial version -- you have to download the trial software from the internet then pay an additional $ 40-60 to some unknown company to unlock all the features !
+Set up[+1][v] ## Set up WPA with no problems .
+USB interface[+1] ## It allows the USB interface on the router to be used either for NAS or print server .
+signals[+1] ## No problems with dropped signals unlike the netgear router it replaced which only lasted 4 months .
+set up[+1][v] ## It was a snap to set up and my PS3 , ASUS EEE Netbook , Droid 2 , and PCs all connect without issue .
+speeds[+1] ## Speed tests showed that the wireless speeds were comparable to those of my home wireless router when using my home broadband cable modem as input .
+connected[+1][v] ## I tried setting the router up with the laptop and it connected easily and hooked me up to the internet in under 15 minutes .
+DD-WRT firmware[+1] ## After much frustration , I finally upgraded the firmware to the latest DD-WRT firmware at DD-WRT 's website and it resolved all my problems .
+firmware[+1] ## You should use the firmware on the DD-WRT website instead .
+connections[+1] ## No problems with any of those connections .
+coverage[+1] ## I get complete coverage everywhere in my house -LRB- about 3500 sq ft -RRB- and it 's located in the corner of my basement .
+signal strengths[+1] ## I verified the signal strengths with a laptop and there was no problem there .

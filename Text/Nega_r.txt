@@ -1,0 +1,126 @@
+monitor[-1] ## My overall experience with this monitor was very poor.
+monitor[-1], picture quality[-1] ## I 've viewed numerous different monitor models since I 'm a college student and this particular monitor had as poor of picture quality as any I 've seen .
+screen[-1] ## A week out of the box and I began to see slight contractions of the screen from time to time , growing more frequent each day .
+Display[-1] ## Display glitches and flashes also occurred .
+monitor[-1] ## I could tell this was a `` cheap '' monitor as soon as I set it up .
+monitor[-1], colors[-1] ## I used this monitor for 2 years and now it shows a mixture of various colors and de-focused text .
+speakers[-1], monitor[-1] ## The only reason I did n't give it 5 stars is because the speakers on the monitor are a little weak , but that 's really to be expected is n't it ...
+clicker[-1], mouse pad[-1] ## The only problem I have is the clicker on the mouse pad is stiff .
+run[-1][v] ## I 've been playing Minecraft on it and multi tasking at the same time , and while it does run slower while multi-tasking , the gaming experience is not compromised for me .
+direct Elictrical connectivity[-1], connect[-1][v] ## My comments are as follow : 1 - Does n't have direct Elictrical connectivity -LRB- you need Adapter which is comming with the package -RRB- 2 - It is really very difficult to connect the the power Cable & the regular -LRB- VGA -RRB- PC connection .
+price[-1] ## One last note , I purchased this monitor with a higher price than what you can get in the states .
+backlight[-1] ## The backlight will periodically fail , the first time it happened I sent it in for warranty repair .
+Acer[-1] ## Acer has been awful to deal with , they treat their customers like rubbish , and have a miserable repair facility to match their products .
+monitor[-1] ## Don't buy this monitor !
+slow[-1][a], system[-1] ## I felt the system was slow so I purchased a 4gb ram from crucell and replaced the standard 2gb that came with the system .
+monitor[+1], price[+1], cable hook ups[-1][v] ## Nice monitor for price but I agree with other customer review about difficulty of cable hook ups .
+video cable[+1], fit into the socket[-1][v] ## First gripe : I set up a lot of these puppies , and the video cable does n't always fit into the socket on the underside of the monitor .
+monitors[-1] ## Second gripe : In the 6 or so months since we purchased our batch of 30-40 of these monitors , 2 have already been returned for repair or replacement .
+monitors[-1] ## Third gripe : These monitors can suffer from the LCD equivalent of screen burn - `` image persistence '' if you like .
+widescreen monitors[-1] ## Besides , I hate widescreen monitors !!!!
+switches[-1] ## When it works its fine but I have gone through two monitors now both with defective switches .
+stand[-1] ## My other big complaint about this monitor is the stand .
+monitor[-1] ## It 's flimsy plastic and the monitor bounces around while you type .
+height adjustability[-1] ## There 's also no height adjustability , so it sits very low to the desk .
+keyboard[-1] ## There is one very annoying problem with this model though : the keyboard is `` sticky '' - meaning , despite this tablet is brand new and just arrived , when I press and release a key on the keyboard it acts as if I kept it pressed , continuing to type the same character again and again .
+stand[-1], monitor[-1] ## The stand is by far the most inferior aspect of this monitor .
+monitor[-1] ## It will only move the monitor side to side -LRB- no up\/down or tilt feature -RRB- .
+monitor[-1] ## Maybe some of you do n't have this problem , but I know of over 20 cases of buzzing from this monitor .
+monitor[-1] ## I sent my monitor in to Acer for repairs for such a small but very problematic problem of random Buzzing from my Acer GD235Hz monitor .
+chat support[-1], repair technicians[-1] ## You can blame the bad chat support or the repair technicians for that because I gave all the information I could .
+repair technicians[-1] ## You guys need to hire new repair technicians because the ones that are in the repair center obviously have no idea what they are doing .
+image quality[-1] ## If you are not picky about image quality , go for it .
+beeps[-1][v] ## However , when you unplug the computer it beeps .
+computer[+1], customer service[-1] ## Wonderful computer , horrible customer service , and I may be deaf come next year .
+customer service[-1] ## Would n't buy again because of the customer service .
+keyboard connector[-1] ## While upgrading the memory the keyboard connector broke .
+switch[-1] ## The replacement unit had a problem too : the little switch on the bottom was n't working properly , making it impossible to select among city forecasts in my area .
+colors[-1], brightness[-1] ## I spend 10 hours\/day in a VNC session with dark colors ; the colors and brightness change across the panel when I look from the center to the corner .
+viewing angles[-1] ## Others may have better luck , but I have never seen a flat-panel with such horrible viewing angles .
+instructions[-1] ## I have been disappointed to find that there is no printed instructions with it , just a crude pictorial instruction of installation , which leaves a great deal of information missing .
+video card[-1] ## The problems came from my video card .
+price[-1] ## I hesitated for so long because of the price .
+incompatibility[-1] ## My only grips are the incompatibility with XP and the USB hub in the display .
+router[-1], hang[-1][v] ## Sometimes the system would hang , so I would have to restart the router , then get going again .
+tall[-1][a] ## It is tall , so I ended up laying it on its side .
+dsl modem[-1] ## -LRB- yeah , like you 'll use a new , very expensive dsl modem as dumb bridge -RRB- I returned the Item and got a linksys dsl modem instead .
+D-link[-1] ## When I bought the third one , I thought I can give D-link one more try , but now I regret my decision .
+data rate[-1] ## The data rate over the network storage is rather slow , but I only use it for occasional backups so it does n't bother me too much .
+SLOW[-1][a] ## I started accessing and transfering files to find it to be extremely SLOW .
+USB function[-1] ## Bottom Line - Do n't buy this for the USB function .
+router[-1] ## Addition on 4\/14\/2011 \*\*\* I 've just had the 2nd router of this model go bad inside of 5 months .
+reset[-1][v] ## Last night I needed to reset the router .
+power supply[-1] ## I unplugged it , plugged it back in , and the power supply failed .
+model router[-1] ## This model router has now failed me twice in the short span of time mentioned .
+network[-1], Internet connection[-1], router[-1] ## The network was down , the Internet connection was gone , and the router was completely unresponsive .
+router[-1] ## After that , the router would never even respond to its own internal browser link .
+security settings[-1] ## My only complaint to date is that it dropped the security settings once and I am not sure why ; do n't know if it was something that I did or if it was a malfunction of the router .
+Range[-1] ## Range was comparable to , or possibly slightly worse than the old Linksys router I had been using for years .
+router[-1] ## And finally , in early June , this router stopped broadcasting an internet signal .
+internet signal[-1] ## The internal network still functioned , but it would not pass through the internet signal from the cable modem .
+connect[-1][v] ## I bought this set it up and would not connect at wireless N speeds .
+service tech[-1] ## They caused the problem , ie wrong product in the box , the service tech failed to believe what the software said was wrong .
+disconnect[-1][v] ## This router gets 1 star from me due to it 's disconnect issue .
+price[-1], quality[-1] ## Paid more than what amazon is currently selling this router at -LRB- price depression due to poor quality no doubt -RRB- and expected to get a good quality product ... these random disconnects kills it for me .
+warranty[-1] ## I guess that `` limited lifetime warranty '' means it may take a lifetime to collect on the warranty .
+connect[-1][v] ## I spent 4 hours on that and I could n't connect to the internet .
+plug[-1] ## Especially due to the odd sized plug designed by D-Link .
+size[-1] ## No one sells a 1.2 mm x 2.2 mm sized -LRB- or what ever stupid size it is -RRB- power adapter .
+reboots[-1][v] ## The problem with this box is that it reboots several times an hour , if not more frequently .
+come back online[-1][v] ## It takes approximately 20 to 90 seconds to come back online -LRB- I have n't timed it -RRB- , which does n't sound that bad until you get nailed 10 times in one hour -LRB- that 's about as bad as it gets ; sometimes it goes for hours without rebooting -RRB- .
+tech support[-1] ## I called the tech support and they helped me install new firmware , but this did not solve the problem .
+product[-1] ## They said the product was defective and said they would send a new one .
+product[-1] ## I am disappointed in this product .
+router[-1] ## More than likely , if you are forking over the money for this router , you have higher needs and expectations , which this router does n't meet .
+guest network[-1] ## Well the theory was great , but upon enabling the guest network , things stopped working .
+USB Network storage[-1] ## USB Network storage - `` supposedly '' it 's slow .
+slow[-1][a] ## I was looking forward to it even if all the other reviews already said it was slow .
+SLOW[-1][a] ## SLOW GUI - Be prepared to wait approximately 90 seconds every time you change one of the sub menu items and click that dreaded `` apply '' button ... yes , 1�1\/2 minutes !
+firmware[-1] ## Or maybe Netgear so screwed up the firmware for this device that it does n't know what to do .
+slowed down[-1][v] ## This router started out looking good but then gradually slowed down to the point that even standard def youtube videos and highly compressed IPTV from Hulu Plus would slow down and freeze or stutter .
+labeling of firmware[-1] ## The labeling of firmware itself is a mystery and suggests that this company is just scrambling to put out fires .
+product[-1] ## I wanted the product to work soo bad , but it just did n't .
+connection speeds[+1], reception[+1], connection[-1] ## I got great connection speeds and reception but the connection would drop several times a day on multiple computers both Linux and Windows .
+product[-1] ## Simply this product was created and was left behind !
+router[-1] ## The router has obviously problems with static IP addresses , firewalls and numerous other programs .
+installation software[-1] ## Unfortunately , the installation software crashed several times and I had to reboot my Vista PC at least twice -- not fun .
+instructions[-1] ## Meanwhile , the instructions for Apple users indicated I should load the CD-ROM , but it turns out it only contained a PDF of instructions and offered nothing by way of explanation on installing for Apple computers .
+product[-1] ## Exasperated at 3 AM , I called it quits and will be sending this awful , deceptive product back .
+router[-1], connection[-1] ## I am having the same problem with the router dropping connection every few minutes .
+device[-1], customer service[-1] ## All in all , bad device , bad customer service ... run like hell from this product .
+SecureSpot[-1] ## Even when you disable SecureSpot completely , it will upon reboot keep saying your computer is new even when it is n't and force you to tell it that your computer is authorized .
+upgrade[-1] ## You ca n't , that `` upgrade '' is irreversible .
+D-Link[-1], product[-1] ## D-Link got greedy and in trying to sell you their pathetic extras made the product unusable .
+Linksys[-1] ## My Linksys froze for 30 minutes or longer when applying changes .
+speed[-1] ## First thing I tested was the speed , and I have to say it was abysmal .
+speed[-1] ## Hooked up to the D-Link extreme N , connected speed dropped to 18mbps and wireless down to 8mbps .
+internet connection[-1] ## The next day , I turned on my laptop and it connected to the network , but no internet connection .
+setup software[-1] ## SETUP SOFTWARE - For my application , I found the setup software on the enclosed CD to be useless .
+dd-wrt software[-1] ## I only give it 4 stars because the device came with really old dd-wrt software .
+remote[-1] ## The only downside is the remote which requires a line of sight .
+sound quality[-1] ## The sound quality has been poor since day one , the base constantly drops calls , and now there seems to be some sort of short circuit in the base -- we can no longer use the AC adapter with the base or it turns off completely .
+volume[-1] ## The incoming call volume is incredibly low and it is often difficult to hear my customers -LRB- it was so bad I had my hearing tested because I thought something was wrong with me .
+noise[-1] ## I tried to use these with my laptop -LRB- Dell Inspiron 1720 -RRB- but could n't get rid of the buzzing noise others have mentioned , no matter how far I moved them from the computer or where I plugged them in .
+speakers[+1], Volume adjustment[-1] ## Pros : - Big crisp screen 1920x1080 resolution - Under $ 200 - Decent sounding speakers Cons : Volume adjustment is a little annoying but not really a big problem since windows has volume controls .
+dsub cord[-1] ## The main problems for me is that the dsub cord from the sub to the control station is too short .
+Klipsh subwoofer[-1] ## The Klipsh subwoofer is laughable .
+sound[-1] ## Initially the sound was low and sounded `` off '' .
+look[+1][v], quality issue[-1] ## They look cool but they have a quality issue for sure ... hit or miss I guess , a gamble for sure !
+volumn[-1] ## I wished that they could make the volumn a little bit louder .
+speaker wire[-1] ## The only drawback is the speaker wire is very thin .
+Instructions[-1], instructions manual[-1] ## You can also use a 6v DC power supply -LRB- not included -RRB- Cons : - Bad Instructions ; like many products of this type the instructions manual is lacking and , in this case , erroneously lists the power requirements as AC when it should be DC .
+volume[+1], vibration[-1], distortion[-1] ## The volume is loud enough , but at louder levels there is noticable vibration and some distortion .
+incompatibility[-1] ## My biggest problem with this speaker is the incompatibility with my 2nd generation iPod Nano .
+disconnects[-1][v] ## My only complaint is like others here ... it randomly disconnects from the bluetooth and it 's really annoying when it does because it does it so often .
+quality item[-1], speaker[-1], sound[-1] ## Very cheap quality item and beside that one of the speaker was bad and the sound out of it was like you are whisling .
+switch[-1] ## The switch being in the back is a little awkward as the other reviews also mention and the `` pulse '' is n't really all that but that is irrelevant to me .
+horns[-1] ## I usually avoid horns but I do n't hear anything overly extreme .
+speaker crossovers[-1] ## There are limitations to what you can do with frequency adjustments because of the built-in speaker crossovers .
+satellites[-1] ## Cons : - I think the satellites look ugly .
+speaker cable[-1] ## - Fixed speaker cable -- why do this ?
+properties[-1] ## I 'm still very frustrated with some of the properties , but now that I have saved equalizer settings and know I have to open up my sound card 's control panel every time I switch between music and videos or games , the sound is much more acceptable .
+carpet tacks[-1] ## I have n't even used the carpet tacks that came with the stands and they are hard to knock over .
+bass[-1], system[-1] ## First of all , I disagree with any suggestions that the bass on this system is boomy in a bad way .
+bass[-1] ## I deducted a star because , when I put my iPod and iPad on full volume , the speaker 's bass began to completely ruin the sound .
+material[-1] ## material is on the cheap side .
+sound quality[-1] ## The sound quality is very poor .

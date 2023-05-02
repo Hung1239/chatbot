@@ -1,0 +1,442 @@
+range[+1] ## It has very good range -- much better than the Linksys router it replaced .
+firmware[+1], router[+1] ## It seems that with every firmware release the router gets better & better .
+range[+1], speed[+1] ## Good range & speed .
+price[+1] ## The price was the lowest I 'd seen in my research -LRB- Best Buy , Office Depot -RRB- .
+use[+1][v], instructions[+1] ## Easy to use with clear instructions contained in the install drive .
+guest feature[+1] ## Also has a nice guest feature so your visitors can connect separate of your primary link .
+device[+1], looking[+1][a] ## It 's a really nice looking device and can be positioned horizontally or vertically .
+Buffalo Technical Support line[+1] ## TECHNICAL SUPPORT LINE - The Buffalo Technical Support line on the other hand , was very helpful .
+technical support[+1] ## The technical support phone line was responsible for my giving technical support 4 stars .
+setup[-1], Bufflo Nfinity G300N[+1], access point[+1], range[+1] ## SUMMARY - I 'm happy to say that despite much frustration with setup , the Bufflo Nfinity G300N is working fantastic as a wireless access point with great range .
+sleek[+1][a], looking[+1][a] ## And it 's sleek and sexy looking as well .
+worked[+1][v] ## UPDATE Jan 12 , 2012 The device has worked flawlessly for the past year .
+device[+1] ## The device itself is pretty solid .
+system[+1] ## The system was nowhere near stable , and the code was in `` alpha '' stage at best .
+inexpensive[+1][a] ## This item was the most inexpensive 17 inch monitor available to me at the time I made the purchase .
+size[+1] ## I really liked the size so I researched what to buy and this was it .
+computer[+1], quality[+1] ## This computer has an excellent screen size and quality -LRB- for a netbook -RRB- .
+keyboard[+1], color[+1] ## The full sized keyboard is sweet not to mention the aquamarine color .
+speed[+1], memory[+1] ## That is surface stuff , but the speed and memory is very good .
+windows 7 premium[+1] ## The windows 7 premium is good -LRB- do n't recommend starter -RRB- and user friendly .
+slower[-1][a], screen quality[+1], hard drive[+1] ## It is slightly slower than the dell , but it is hard to notice with the very nice screen quality and larger hard drive .
+machine[+1] ## Overall a sweet machine .
+light-weight[+1][a], device[+1] ## It 's just such a nice , light-weight , non-intrusive device which you can take anywhere .
+netbook[+1] ## I really love this netbook .
+monitor[+1] ## I 've had this monitor for over a year and I absolutely LOVE IT !
+picture[+1] ## I do n't think that really matters though - I mean hooked my Xbox 360 up to the standard VGA port a little while ago and the picture was awesome .
+lighter[+1][a], functionality[+1] ## it is lighter to carry around and it has enough functionality to use .
+price[+1] ## Great replacement at great price for an older bulky and heavy monitor .
+Color[+1], contrast[+1] ## Color and contrast are perfect for my needs .
+product[+1] ## Seems like a good product .
+monitor[+1] ## Excellent monitor .
+image[+1] ## Clear and crispy image .
+small[+1][a], computer[+1] ## My fiance ordered this computer , she 's a teacher so she needed a small computer that would keep her from bringing work home with her .
+performance[+1] ## We got this on time , and it was brand new , perfect condition , performance as can be expected for the machine specifications , keep in mind I 'm extremely computer savvy , so my opinion comes to a lot of people .
+computer[+1] ## I 'm not a person well read in technology but this is just an absolutely wonderful computer .
+keyboard[+1] ## The keyboard is also very nice and quite comfortable-although it does take some getting used to .
+computer[+1] ## I do n't want to be a sensationalist but this computer is incredible .
+netbook[+1] ## If you have netbook expectations you will be pleasantly surprised by how well this baby runs .
+products[+1], price[+1] ## We count on good products at a good price .
+hook up[+1][v] ## Easy to hook up .
+picture[+1] ## Great picture .
+monitor[+1] ## I am very happy with this monitor .
+disign[+1], price[+1] ## It really impressed me with the disign , the specs & the price .
+screen quality[+1], side view[+1] ## The screen quality is very high & the side view is very sharp & clear .
+color[+1], brightness[+1], pixel quality[+1] ## I 'm glad I went with it , it actually exceeds my ViewSonic for color , brightness , and pixel quality .
+monitor[+1], resolution[+1] ## Though it does n't have quite the screen real estate , it 's an excellent monitor and crystal clear at a resolution of 1920x1080 .
+monitor[+1], price[+1] ## Very happy with the monitor and the price ...
+monitor[+1] ## I have this monitor for a month now and I 'm very pleased with it .
+widescreen[+1] ## My wife is even more pleased due to its widescreen .
+colors[+1] ## The colors are clear , also .
+Acer tech support[+1] ## It came back working , and I was momentarily glad that the rumors I 'd heard about Acer tech support did n't turn out to be true in my case .
+product[+1] ## I really enjoy this product .
+portability[+1], battery life[+1] ## I was looking for portability and good battery life and this product delivers both .
+battery[+1] ## I seem to be getting 5 to 6 hours on the battery which is sufficient for my needs .
+netbook[+1], light[+1][a] ## This netbook is very light but still powerful .
+Screen brightness[+1] ## Screen brightness is really good .
+delivering[+1] ## Pros : Competitive Cost Win 7 Home premium HDMI port -LRB- I could watch the Amazon instant videos on my HDTV and its delivering great .
+Office Starter Web Cam[+1], weight[+1] ## Office Starter Web Cam is also fairly good Light in weight and elegant Cons : I wo n't say anything bad as you are just paying 280 for this net book .
+monitor[+1] ## I love this monitor .
+color display[+1], picture[+1], size[+1] ## Great color display , sharp picture , and just the right size for my desk .
+Fits[+1][v] ## Fits perfectly in the corner of my small desk !!
+images[+1], text[+1], fonts[+1] ## The images are vivid and crisp , the text and fonts are very clear .
+price[+1] ## Absolutely love it and cant beat the price !
+monitor[+1] ## This monitor works great .
+set up[+1][v], pixels[+1], price[+1], LCD monitor[+1] ## Easy to set up , no bad pixels , great price for 19 LCD monitor !
+items[+1] ## Both are absolutely great items .
+Acer stuff[+1] ## All the latest Acer stuff is top notch !
+Acer Monitor[+1], screen[+1], design[+1] ## The Acer Monitor has an extremely bright screen and its design allows the placement in an area -LRB- from a heighth perspective -RRB- that many 20 '' screens will not fit in .
+brighter[+1][a], weighs[+1] ## Compared to the 19 '' Dell Monitor this replaced it is far brighter and weighs much less .
+set up[+1][v] ## Very easy to set up .
+monitor[+1], price[+1] ## Highly recommend this monitor - hard to beat at this price point .
+clarity[+1], sharpness[+1] ## I purchased three of these Acer 19 '' at very good rates from Amazon ... we are extremely pleased with the clarity and sharpness .
+sleek[+1][a], monitor[+1] ## This sleek looking monitor is absolutely awesome !!
+product[+1], unbox[+1][v], install[+1][v] ## This Wonderful product was easy to unbox and install !!
+display[+1], price[+1] ## Other then that it is a fantastic display for the price .
+display[+1] ## I have n't really need any since the display have proven to be very intelligent when resizing different screen res 's and I can use the ATI drivers to adjust things like color temp and gamma .
+quality[+1] ## For me its perfect and the quality for games and word docs is more than acceptable .
+faster[+1][a] ## Much faster than my previous Acer One Netbook with single processor .
+monitor[+1], price[+1], picture[+1] ## excellent , very good monitor to rest the price is pretty good , I recommendt he picture is sharp and in perfect condition came to Venezuela
+Fits[+1][v] ## Fits nicely on the small desk we use in our computer room .
+distort[+1][v], video[+1], pictures[+1] ## It does not distort ; video and pictures look great .
+Acer products[+1] ## We like Acer products and this one does n't disappoint .
+monitor[+1], Size[+1], looking[+1], 3d[+1] ## Hi , I just got this , and let me tell you is an awsome monitor , Size , looking and 3d is awsome good with this LCD .
+compact[+1][a] ## Nice and compact .
+Acer Netbook Aspire One[+1], computer[+1], pretty[+1][a], quality[+1], quiet[+1][a], heated[+1][a], keyboard[+1], laid out[+1], screen functions[+1] ## After much delay I received my Acer Netbook Aspire One and I can teell you I am very satisfied with this computer , is very pretty , well finished , high quality , so quiet , not heated than other netbook or at least I think it is within in normal ranges , the keyboard is very smooth and very well laid out , the screen functions are very practical in a nutshell is an excellent buy and I am very pleased with the purchase , I recommend it .
+laptop[+1] ## its definately an outstanding laptop .
+expensive[+1][a], design[+1] ## it's far from expensive for the specifications but there is a lot more than in there ... i like it so much ... its nicely designed for the portable user and I like the Ferrari design on it .
+color[+1] ## The color is red and is so attractive !!
+images[+1] ## Sharp , crisp images .
+Delivery[+1] ## Delivery was prompt .
+Monitor[+1], set up[+1][v] ## Monitor was easy to set up and works as promised with my newly acquired NVIDIA glasses .
+increased memory option[+1] ## The operation with the increased memory option was flawless with the Windows 7 Home Professional instaled otherwise other netbooks with Windows 7 Starter doesnt allow , and nobody mention this .
+size[+1] ## This is a plus with this netbook , the increased size of 1.6 inches means better and clear view of webpages and woks made in Office .
+monitor[+1], speakers[+1] ## This is a very nice monitor , matte black and built-in speakers .
+image[+1] ## Sharp image .
+delivery[+1] ## VERY fast delivery .
+LED monitor[+1] ## This LED monitor is fantastic !!!
+Image[+1] ## Image clarity is great -LRB- I do a lot of work in PhotoShop with 18MB RAW image files and noticed the difference immediately -RRB- .
+worked[+1][v] ## It worked great and we just pluged it in .
+screen[+1] ## However , when I plugged it into my Mac Mini , the screen looked wonderful .
+colors[+1] ## The colors and everything are great .
+colors[+1] ## I exchanged this from an LG that I bought for nearly twice as much and the colors on the LG were not at all as nice as this .
+display[+1] ## I thot my original monitor had a good image , but the S201HL has a much brighter display .
+monitor[+1] ## This monitor is much , much better but still not great .
+battery life[+1], screen resolution[+1] ## recieved this product in time for a gift giving ... works outstanding good battery life nice screen resolution uses windows 7 which is what the rest of the house uses connectsd to my network easisly
+features[+1], performance[+1] ## Overall , I like the system features and performance .
+convenient[+1][a] ## I love that it is a tablet - it is so much more convenient than a regular laptop .
+monitor[+1] ## I bought this monitor from computer direct a couple months ago , and I have been very satisfied with it so far .
+clarity[+1], contrast[+1] ## The clarity and contrast are exactly what I was looking for in a monitor , and spec for spec , it is a bargain compared to other brands .
+shipping[+1] ## The computer direct processing and shipping was outrageously fast .
+shipping[+1] ## I ordered it on a Monday afternoon -LRB- around 2 PM -RRB- and with no extra shipping costs , the monitor was at my door in Chicago by the time I got home from work Tuesday .
+view angle[+1] ## However , the view angle on this thing is so big that you will see very clearly on any desk\/viewing situation you normally run across .
+netbook[+1], fast[+1][a] ## the netbook work as a breeze for my sales person , it worked fine , fast and with the extra ram nothing could stop it , in fact it works better than my own laptop so I will change to this one as soon as possible
+Acer 19-inch flat screen monitor[+1] ## I am very happy with the Acer 19-inch flat screen monitor which I received for Christmas .
+product[+1] ## Just an average user getting good value in this product .
+picture[+1], colors[+1], weight[+1] ## Hooked it worked like a charm , great picture , bright colors and very light weight .
+price[+1] ## I 'm very satisfied with it especially for he price .
+monitor[+1], price[+1] ## Good monitor for the price .
+colors[+1] ## The colors are bright , beautiful and clear .
+monitor[+1], price[+1] ## Otherwise a very decent monitor for its price .
+smooth[+1][a] ## Very smooth .
+laptop[+1], small[+1][a] ## So far , I am super happy with this small yet powerful enough laptop .
+computer[+1] ## : P Fantastic little computer , does everything I had hoped for work\/study\/travel .
+shipping service[+1] ## This was very prompt standard shipping service .
+fits[+1][v] ## This 4 X 3 monitor fits my space very well .
+monitor[+1], display[+1] ## The monitor works very well with a sharp and bright display .
+brightness[+1] ## Changing brightness is easy , with four presets and one user changeable -LRB- I leave that at minimum brightness for at night -RRB- .
+screen[+1], colors[+1] ## The screen is a very pleasing matte , and the colors are great .
+color[+1], price[+1] ## It has good color and price was great .
+display[+1] ## Fantastic display ... do n't understand why this model is n't available anymore .
+lines[+1], viewing angle[+1], price[+1] ## Bright , vivid , clean lines , wide viewing angle , and best of all - great price !
+AG Neovo 's standout 17 '' monitor[+1] ## It was worth the wait because AG Neovo 's standout 17 '' monitor has all this and more .
+displays[+1] ## When the Matrox G550 Dual-DVI card comes out , I 'll consider purchasing one more of these super displays .
+device[+1] ## The idea of this device is great : it picks up a 5-day weather forecast from AccuWeather and displays the key elements on its screen .
+5-day forecaster[+1] ## So if you 're game for a little fiddling , you may be very pleased with this 5-day forecaster .
+monitors[+1], price[+1] ## These monitors are great for the price .
+Shipping[+1], set up[+1][v] ## Shipping was fast and they are very easy to set up .
+price[+1] ## The price is very good .
+running[+1][v], picture[+1] ## However , I now have it running nicely and it produces a nice picture .
+monitors[+1] ## The monitors were both good .
+monitor[+1] ## We are well pleased with the monitor and the company .
+heat dissipation[+1] ## Solid , resistant to scratches , better heat dissipation .
+display[+1], text rendering[+1] ## The display is large enough , and the text rendering is sharp enough , that you 'll forget entirely about workspace issues .
+Superdrive[+1], WiFi\/Bluetooth modules[+1] ## Highly recommend getting the Superdrive and the WiFi\/Bluetooth modules .
+wireless keyboard[+1], mouse[+1] ## Apple 's wireless keyboard and mouse work flawlessly with the mini .
+value[+1] ## This is an excellent value .
+works[+1][v] ## I have this connected to my late 2008 MacBook Pro , and it works flawlessly .
+support[+1] ## Kudos Apple - though your products are of superb quality , your support is equal to that .
+product[+1] ## This product is definitely worth the purchase .
+products[+1] ## However , you DO get what you pay for in reliable products .
+customer service reps[+1] ## I do n't for-see myself having any issues with it in the coming year or two however if I do , I will know that with this product , it will be taken care of for free and quick with helpful and courteous customer service reps. The service of Amazon in getting this item to me was faster than I expected and it is exactly what I knew it would be .
+display[+1] ## Overall , it is an impressive display .
+price[+1], item[+1], customer service[+1] ## Affordable price , reliable item and excellent customer service .
+customer service[+1] ## I did have problem connecting my laptop to the internet but there customer service representative was very helpful and patient in walking me through all the steps .
+set up[+1][v] ## I am above average with technical knowledge but it is easy enough for the beginner to set up .
+customer service[+1] ## I was pleasantly surprised that customer service was able to step me thru manual setup .
+customer service[+1] ## It works , good customer service -LRB- so far -RRB- = 4 stars .
+go online[+1][v], adjust[+1][v] ## Oops , easy to go online , and adjust it there .
+Connection[+1] ## Connection to the device is so easy .
+D-Link DIR-655 Extreme N Wireless Router[+1] ## The D-Link DIR-655 Extreme N Wireless Router works fine as a 802.11 n wireless router .
+cost[+1], wireless punch[+1] ## With the small cost it packs a powerful wireless punch
+Setup[+1][v] ## Setup was very easy .
+USB port[+1], feature[+1] ## The USB port on the back is a nice feature .
+router[+1] ## In all I 'd say this is a decent router for the money .
+product[+1], signal interruptions[+1] ## My house is small , so it 's hard to judge the real strenght of the product through a lot of walls , but in my house the product worked perfectly in all rooms and corners , with no signal interruptions .
+model[+1], software[+1] ## The model is also very clean and nice , and the software is very user-friendly .
+product[+1] ## These were only my first week impressions but , until now , I strongly recommend this product and I 'm very satisfied with it .
+printer sharing[+1], menu[+1] ## The D-Link has a ton of features including USB printer sharing , two wireless networks -LRB- one not connected to the LAN -RRB- , and a really comprehensive settings menu .
+signal strength[+1], setup[+1], security[+1] ## No dropouts , good signal strength all over my three story house -LRB- unit is located on the top floor -RRB- and very user friendly in the setup and security aspects .
+speed[+1] ## I would n't mind having an external adjustable antenna , but it does fine as is and the speed on the bottom floor of the house is much improved .
+set-up[+1] ## The set-up went fairly smooth with netgears online knowledge base .
+set up[+1][v] ## The set up was pretty simple , basically a matter of hooking everything up and rebooting your system at which time you 're taken to the D-Link website to finalize how your setup will be .
+D-Link support crew[+1] ## However , a phone call to the D-Link support crew was answered in a reasonable amount of time and they guided me through the process without a problem .
+router[+1], working[+1][v] ## As of this review I am using the router and it is working very nicely .
+D-Link DIR-655[+1], connections[+1] ## As a final comment I am happy with the D-Link DIR-655 so far and my home wireless connections are smooth whether I 'm using my ASUS netbook or Apple iPad .
+Installation[+1] ## Installation was easy as advertised .
+tech[+1] ## Made call which was immediately answered by very helpful , competent tech .
+tech support[+1] ## Best tech support I have ever experienced .
+speed[+1], set up[+1][v] ## Amazing speed and easy to set up .
+range[+1] ## Very good range and seemed to be better in the horizontal position .
+set up[+1][v] ## The set up for this product was a breeze .
+work[+1][v] ## Surprisingly , everything seems to work well .
+signal[+1] ## My 2 XBoxs , Ipod , Iphone , Ipad are all catching a nice strong signal .
+router[+1] ## PROS : So off I went to get a faster router , and this one did the job I bought it for admirably .
+Set up[+1][v] ## Set up was smooth , and both wired and wireless devices worked very well on it .
+perform[+1][v] ## My blu-ray player and WD Live TV box normally lean back , smile , and light up a smoke after a good firmware upgrade , and perform well forever thereafter .
+firmware update[-1], exchange period[+1] ## In the end I would recommend that you go with a different router , If you decide to get this one , either never do a firmware update , or do it right away so that if the router fails , you are within the easy exchange period .
+connect[+1][v], feature[+1] ## The ability to connect an external hard drive to the router is a nice feature when backing up from my various computers .
+set[+1][v] ## I am a novice at this stuff but it was extremely easy to set the router up .
+worked[+1][v] ## So far the router has worked well .
+routers[+1] ## The first 2 routers worked good for years .
+set up[+1][v], worked[+1][v] ## The Netgear Router was simple to set up and has worked well for the last couple to few months I have had it .
+product[+1], price[+1] ## I am very happy with this product and the price was very reasonable given its features and specifications .
+Linksys[+1] ## I thought it might possibly be the modem or ISP until I hooked the old trusty Linksys back up to it and it worked fine .
+install[+1][v] ## Selected it because it looked easy to install .
+Worked[+1][v] ## Worked fine after that .
+tech support people[+1] ## I have very high praise for the tech support people .
+device[+1], small[+1][a], designed[+1][v] ## The device is small and well designed ... I would recomment it highly
+ROUTER[+1] ## THIS ROUTER IS AWESOM BUT IT WILL ONLY SUPPORT 1 XBOX WE HAVE 3 AND YOU CAN NEVER GET MORE THAN 1 TO HAVE A OPEN NAT TYPE THE OTHERS ARE USUALY MODERATE OR STRICT WHEN I CONTACED SUPPORT THEY WERE VERY NICE AND TRIED THRE BEST TO GET IT WORKING RIGHT BUT TO NO AVAIL BOTTOM LINE IF YOU JUST HAVE A COMPUTER A LAPTOP AND 1 360 YOU WILL BE FINE AND VERY SECURE THIS ROUTER IS WELL WORTH THE MONEY
+shipped out[+1][v], condition[+1], set-up disk[+1] ## Item shipped out quickly , was in good condition , came with easy to use set-up disk ... we have n't had to 're - set ' the router at all so far since it 's delivery , so my wife is no longer giving me the business about losing her wireless internet connection on her laptop ... added security benefits , neighbors no longer hogging signal , well worth the purchase price !
+internet connection[+1] ## When I then moved the wire to the desktop and used the laptop wirelessly , the internet connection was just fine .
+product[+1] ## This is an outstanding product , one that lives up to the PR .
+Valet PLUS[+1], configure[+1][v] ## Valet PLUS is easy to configure , and was set up in about 7 minutes .
+range[+1] ## The range is GREAT - upstairs , downstairs , outside , or in a basement - four bars , all the time .
+set-up[+1][v] ## The set-up is goof-proof , and offers a superior result .
+Worked[+1][v] ## Worked fine .
+software[+1] ## The software on the router is pretty good .
+use[+1][v], feature[+1] ## It 's easy to use , and it seems feature complete .
+setup[+1] ## However the setup was easy and the results excellent .
+setup[+1] ## I have been dealing with wireless routers and access points for a long time -LRB- most recently with Cisco\/Linksys -RRB- and this was the easiest most efficient setup I 've ever experienced .
+works[+1][v] ## And it works great too !
+device[+1] ## This device solves the problem nicely .
+Setup[+1] ## Setup is simple and it worked right out of the box .
+product[+1] ## Overall I am very satisfied with this product and will be using it often .
+set up[+1][v] ## Also , it was very easy to set up a route to my WAMP server as the process was exactly the same as my old NetGear .
+support[+1] ## This time , D-Link support was more helpful and guided me to the actual problem , which was that the router failed to `` auto-negotiate '' the Ethernet link speed from my FiOS optical network block .
+switch[+1] ## The switch negotiated the speed just fine and presented the router with a GigE link .
+install[+1][v], set up[+1][v] ## I am not to savy with a computer but the D-link is very easy to install and set up .
+Tech support[+1] ## Tech support was very pleasent and helpfull once you actually got someone .
+worked[+1][v] ## It worked perfectly for about a week , then the problems came .
+working[+1][v] ## The replacement was even worse than the original one , which was now working fine .
+works[+1][v], router[+1] ## This router works fine and I am able to stream video in all rooms of the house at the same time .
+router[+1], works[+1][v] ## This router works very well right out of the box .
+coverage[+1] ## It also has excellent coverage through our two story house .
+router[+1] ## This router is phenomenal !
+Working[+1][v] ## The router has 4port 1gig Ethernet switch and wireless Access point AP -RRB- 802.11 n Working flawlessly !
+router[+1] ## In short , if you 're just someone that 's a little afraid of technology , and you just want a router to get online , do basic networking and play mafiawars and browse myspace all day , this router is great for you .
+network speeds[+1] ## It was nice to have the faster internal network speeds while we tested this router -LRB- which was for all of about 3 hours while trying to get everything to work properly -RRB- .
+n-router[+1] ## You can stop looking : This is the best n-router you will find today -LRB- I am writing this on 03 Nov 2011 -RRB- .
+setup[+1][v] ## The DIR-655 was so easy to setup it was almost too easy .
+return policy[+1] ## Thanks to Amazon 's amazing return policy , I was able to return the product at no loss on my part .
+firmware update[+1] ## My DWL-2100AP does not work as a repeater for DI-624S and there is no firmware update to support this product .
+install[+1][v] ## As a Non-Technical person , I was surprised to install the Cisco Valet Plus Wireless Hotspot in less than 10 minutes .
+CISCO Valet[+1] ## We still have our other network , which I use with my iPod , however , I will change it soon because the CISCO Valet is much better and faster .
+product[+1] ## I 'm delighted with this product .
+Tech Support[+1] ## I spent 1.5 hours on the phone with their Tech Support -LRB- you get connected right away and do n't have to wait -RRB- and got at least my iMac and MacBook back online .
+Set Up[+1][v] ## Easy Set Up .
+Coverage[+1] ## Great Coverage .
+works[+1][v] ## Even works better on G band than the Linksys .
+product[+1], price[+1] ## This is a great product and carries a lot of pride in its networking capabilities for the price !
+router[+1] ## I personally would recommend this router in every house hold or small buisiness environmnets .
+administration[+1] ## Reliable , Highly available and ease of administration and forget about me -LRB- Do n't bother anymore -RRB- equipment !
+set up[+1][v] ## It was really easy to set up out of the box and I got all my wireless devices -LRB- 2 laptops , 1 desktop and 2 smartphones -RRB- connected to the internet in minutes .
+Set up[+1][v] ## Set up went pretty well and things seemed good .
+router[+1] ## It is a wonderful little router .
+Connection speed[+1], product[+1] ## Connection speed to the other 2 machines seems awesome - much quicker than the router I replaced , and when combined with the simplicity of the Valet Plus , this makes for a great product .
+router[+1] ## This router is the best I have used to date .
+Setup[+1] ## Setup was easy -LRB- Windows XP wired , Windows 7 Professional wifi -RRB- .
+instructions[+1] ## I followed the easy instructions in the manual , and once online at the router 's login , there is a setup Wizard which will work with your OS if you choose to use it .
+set[+1][v] ## I just set it up manually , which is very easy .
+setup[+1] ## The router recognized my other wifi devices easily , and further setup was a breeze .
+router[+1] ## I 'm very happy with this router , and would recommend it .
+working[+1][v] ## Update : I 've been using this router for 3 months and it 's still working very well - wifi remains strong and consistant .
+router[+1] ## I remain extremely pleased with this router !
+fast[+1][a] ## At first I dealt with this as 18mbps was still REALLY fast .
+product[+1] ## This is a good product .
+speakers[+1] ## These speakers are incredibly amazing .
+speakers[+1] ## I didnt want one in which I would have to put in batteries myself -LRB- that is a pain -RRB- I did alot of research and read a bunch of reviews and im glad I purchased these speakers .
+speakers[+1], sound[+1], bass[+1] ## The speakers have a very rich sound and good bass also , obviously not thumping bass for which you would need a huge subwoofer !!
+Tuner quality[+1] ## - Tuner quality is good .
+bass[+1] ## Even the bass is pretty impressive from such rather small drivers .
+worked[+1][v], sounded[+1][v] ## I took them to a different room and tested them with my mp3 player , where they worked fine and sounded pretty good .
+quality[+1], stands[+1] ## Excellent heavy build quality , and the stands are not imposing and blend fairly well into the rest of my furniture .
+look[+1][v] ## Wire runs through the body of the stand - giving it a very clean look .
+stands[+1], wire[+1] ## I 'm also running in-wall rated insulated 14 gauge speaker wire , and the stands accommodate this thick wire perfectly , even through the groove in the bottom of the base .
+front channels[+1] ## I 'm very happy with these , I 'll probably buy 2 more for the front channels .
+speakers[+1], control station[+1], remote[+1], sub[+1] ## Thats pretty much it , the speakers rock , the control station and remote are nifty , and the sub is powerful .
+speakers[+1] ## Great speakers overall .
+home theater[+1], music speaker[+1], highs[+1], mids[+1], bass[+1] ## Beautiful home theater and music speaker ... crisp highs , defined mids , and respectable bass .
+bass[+1], JBL sub[+1] ## and I love extremely low , loud bass , and as such , I suplemented the system with a sweet JBL sub .
+speakers[+1] ## These a great speakers - full of sound .
+bass[+1] ## The bass is solid and can be quite impressive if turned up .
+speakers[+1], look[+1][v], use[+1][v] ## The speakers look nice and are easy to use .
+speakers[+1] ## if you 're okay with removing the skin each time you want to use the speaker system , then by all means purchase these speakers as they are great !
+Logitech 's products[+1] ## Most products will last if taken care of , and Logitech 's products are no exception to this rule , however , since they are somewhat , in fact a great deal more sturdy , than my old radio .
+speakers[+1], perform[+1][v], sound[+1] ## The speakers perform very well , and with the bass boost , the sound fills outs exceedingly well .
+unit[+1] ## For a small , portable , unit , this allows you to listen to , as well as share Ipod music , and podcasts , in an intimate setting .
+price[+1] ## For the price there 's nothing better .
+sound quality[+1] ## The sound quality is really good .
+speakers[+1] ## The way I have to put in my I-Pod was a little tricky but when it was done the speakers sound really good .
+Satellites[+1], corsair[+1] ## The Satellites are good but the corsair is more responsive and clean .
+speaker[+1], condition[+1] ## The speaker arived in excellent condition .
+joints[+1], finish[+1], speaker wire hook-ups[+1] ## Very tight joints , excellent black finish , and precise speaker wire hook-ups .
+sound[+1] ## The sound was crisp , clear , and no distortion .
+speaker bar[+1] ## I 'm quite happy with my new speaker bar .
+sound reproduction[+1] ## For those of you looking for excellent sound reproduction , expecially during a raging Decepticon battle , look no further .
+Pinnacle speaker bar[+1] ## This Pinnacle speaker bar is well worth the money .
+price[+1], unit[+1] ## Over for the price this is a good unit .
+Sound quality[+1], bass quality[+1] ## Sound quality is great , bass quality is beyond good .
+quality[+1] ## Build quality is great .
+price[+1] ## Still for the price you ca n't find better for the cost .
+audio bar[+1], sound[+1] ## This audio bar has a great sound , even when i turn it up to the highest level on my laptop .
+sound[+1] ## Other than that the sound is so crisp and clear and I would still purchase this all over again .
+sound[+1] ## The sound is so good that my boyfriend wants one now !
+install[+1][v] ## they were easy to install and ended up using 300 feet of cable .
+speakers[+1] ## I highly recomend theese speakers .
+shipping[+1][v], shape[+1] ## As always , super quick shipping by Amazon , items arrived in great shape .
+stands[+1], instructions[+1] ## Assembly of the stands is very straightforward , and well detailed in the instructions .
+speakers[+1] ## They are very sturdy , and have no trouble balance wise , or handling oddly shaped speakers .
+sound[+1] ## The sound is clear and clean but if your not on top of it you ca n't hear a thing .
+setting[+1] ## I 'm sure it would and can be useful in a different setting ; one where you would only need your volume to be at a whisper .
+quality[+1], portable[+1][a], speaker[+1] ## Good quality for a small portable speaker .
+USB port[+1] ## Convenience because it works through the USB port .
+tiny[+1][a], sound[+1] ## Its tiny and has really decent sound for something so small .
+battery[+1], feature[+1] ## The rechargeable battery is a great feature .
+value[+1] ## Very good value for the money .
+speaker[+1] ## I love this little speaker .
+sound[+1] ## I was surprised how good the sound was and I especially like to use it when I am listening to audio books .
+speakers[+1], priced[+1][v] ## Both the black and the white speakers are economically priced and worth it .
+speakers[+1], sound[+1], size[+1], range[+1] ## The speakers are nice , no question about it ; the sound is good for the size ; the range is what you might expect from speakers this size -LRB- perhaps even better than expected -RRB- .
+work[+1][v] ## There are no incompatibility problems and they work fine .
+size[-1], sound[+1] ## The size is a bit more than I expected from Bose , a company that excels at putting good sound in small packages .
+speakers[+1] ## Lastly , I feel that the speakers were over priced for what I got -LRB- unless there is some inherent benefit in the Bose label that I do n't know of -RRB- .
+speakers[+1] ## Bottom line , I have a better set of speakers , in the Creative Labs I-Trigue 2200 2.0 Speakers , on my computer -LRB- at least to my ears -RRB- , for less than half the cost .
+speaker[+1], use[+1][v], price[+1] ## This portable speaker is easy to use , powerful enough for everyday use , and available at a pretty decent price .
+battery[+1], sound quality[+1] ## The battery has a great life and the sound quality is very good -LRB- not professional but definitely good enough for the average consumer -RRB- .
+sound system[+1] ## Awesome sound system .
+Onkyo sound[+1] ## Had a JVC system that was 6 years old and I thought it was good , but the Onkyo sound is amazing !
+install[+1][v], components and directions[+1] ## It was easy to install all of the components and directions were easy to understand , even for an old guy like me .
+sound[+1], speaker[+1], Phillip speaker sound[+1] ## This set is not my preferred to use in my car -LRB- I use the JBL On Tour - great sound for a small , compact speaker -RRB- , but I was very impressed with the Phillip speaker sound and use them very regularly around the house .
+price[+1], sound[+1], portability[+1] ## For the price , the sound is great and their portability -LRB- pack down to a large egg-shape -RRB- is quite good .
+sound[+1] ## You ca n't go wrong with these if what you are looking for is a good sound in a small package !
+base[+1] ## the soft orange glow at the base is a nice nightlight .
+sound[+1] ## and the sound well there is no complaints about that .
+quality[+1] ## It 's loud and the quality is good .
+product[+1], built[+1][v] ## A + + + + + + product and very well built for apple users in mind ... ... oh yeah theres a usb port in the back for you droid people .
+volume[+1], bass[+1], mounting abilities[+1] ## Well , I can not complain about the volume , bass or mounting abilities of the system .
+value[+1], quality[+1], speakers[+1] ## These INSTEN `` Folding Speakers '' are a surprisingly good value for decent quality portable speakers !
+performance[+1], speakers[+1], price[+1] ## We own two sets of these -LRB- black -RRB- and I am very pleased with the performance of the these compact speakers , especially at the low price these sell for here on Amazon .
+sound quality[+1] ## Very compact and portable just as described with great sound quality .
+volume[+1], speaker system[+1] ## Would definatley recommend to a friend and its volume can fill a small house for such a small speaker system .
+product[+1] ## This product is good enough to integrate my clarion cx501 to my Toyota camry 2001 mode .
+works[+1][v], installation[+1] ## It works flawlessly during installation of cx501 .
+inexpensive[+1][a], speaker[+1] ## I was looking for an inexpensive , room-suited ipod speaker and this is what I got .
+speaker[+1] ## So besides the annoyances , this is a fine speaker for the amount I paid .
+set up[+1][v], picture[+1] ## Easy set up and the picture was crystal clear .
+speaker[+1] ## Love this speaker .
+Sounds[+1] ## Sounds awesome .
+Works[+1][v] ## Works super easy .
+Looks[+1] ## Looks great .
+highs[+1] ## full spectrum sound from full base to great highs .
+sounds[+1][v] ## it sounds great out on the patio or on my night stand .
+device[+1], use[+1][v] ## I have found this little device to be quite fun to use .
+range[+1] ## The range seems quite good even through walls .
+sounds[+1][v], size[+1] ## I mainly use it with my Apple IPad and it really sounds quite good for it diminutive size .
+range[+1] ## The range is great , I can list to my radio anywhere in the house .
+N550 Speaker Lapdesk[+1] ## Logitech 's N550 Speaker Lapdesk wins in the area of comfort .
+underside[+1], typing experience[+1] ## The padded underside is great even when set on bare legs and the unit is angled for a comfortable typing experience .
+speakers[+1], sound[+1][v] ## The speakers themselves sound really good .
+batteries[+1] ## Even better , you do n't have to worry about constantly replacing batteries .
+option[+1] ## All in all , this is a very good option for anyone who has a small portable computer and wants a lapdesk and external speakers .
+devices[+1] ## This is one of the nicest electronic devices that I 've ever owned .
+speakers[+1], small[+1][a], quality[+1] ## The speakers are pretty small , so they wo n't take up a lot of space , but they play as loud as you want them to , and they have great quality .
+product[+1] ## This product is amazing !!!
+sound[+1] ## They sound really good just as the reviews say .
+computer speakers[+1], price[+1] ## Overall I would reccomend these to someone who wants a set of small but effective computer speakers at a reasonable price .
+HT upgrade[+1] ## Best HT upgrade I 've made in over 2 years .
+speaker[+1] ## Well , this speaker does the same wonders for my low-end HT setup .
+Dialogue[+1] ## Dialogue is very noticeably clearer .
+Sound effects[+1] ## Sound effects really sound more authentic .
+working[+1][v] ## The second set is working just fine .
+surround sound[+1] ## Music sounds great but having surround sound in game is nice and a big difference from headphones .
+used[+1][v] ## They are clears and perfect to be used along with a sub .
+price point[+1] ## In addition the price point is spectacular .
+system[+1] ## This system is very powerful .
+speaker system[+1] ## This is a great 3-piece speaker system for a computer , and it 's worth every penny .
+sound system[+1] ## This is the best sound system I have ever heard .
+sound[+1] ## When I saw a lot of plastic where there was metal I was concerned that the sound would not be as good .
+computer speaker[+1] ## However , once you crank the volume a little to a level a bit too distracting for the work I like to get done with some background music , viola , the audio is great -LRB- well , this is relative - great for a computer speaker -RRB- .
+sound[+1] ## Pros : - Great sound for a $ 100 speaker at mid to higher levels .
+computer speakers[+1] ## Definitely more capable of filling the room with sound than any other computer speakers I 've owned .
+Input[+1], headphone[+1] ## - Input and headphone on right jack is super handy .
+Power[+1], volume[+1], bass controls[+1], speaker[+1] ## - Power , volume , and bass controls on the right speaker are fairly handy .
+computer speaker[+1], bass[+1] ## - If you want loud , boomy bass , this does the job very well for a computer speaker -LRB- no , these are n't going to hit as hard as larger power-guzzling woofers , but they perform as nice as or better than many home theater woofers I 've heard -RRB- .
+speakers[+1] ## This is a preference , but since these speakers are more than capable of loud levels , I 'd be willing to sacrifice some efficiency to have an enclosed woofer that is much more accurate and less ... redolent of a teenager 's car system .
+computer speaker[+1] ## For those who want the thump that this is capable of producing -LRB- very good for a computer speaker -RRB- , this is probably necessary .
+speakers[+1] ## I love this speakers .
+Sound quality[+1], base[+1] ## Sound quality and base is amazing .
+product[+1] ## I would strongly recommend this product !
+size[+1], speaker system[+1], sounds[+1] ## This small size speaker system pumps out great sounds with most MP3 players , including Sansas and Ipods .
+sound[+1] ## I set it up in my living room and the sound was superb .
+system[+1] ## This is a superb system and highly recommended .
+smaller[+1][a] ## It is smaller than I expected when I ordered it , but as it turns out , so much the better .
+system[+1], price[+1] ## A great system at an incredible price .
+quality[+1], price[+1] ## However , because this dock plays about any MP3 player and is of good quality and low price , it should sell very well .
+looking[+1], speaker stands[+1] ## These are good looking , durable speaker stands .
+stands[+1], look[+1][v] ## Overall they are great stands and look good .
+stereo separation[+1], bass level[+1] ## The iHome , however , has markedly better stereo separation as well as bass level .
+stereo reproduction[+1] ## The iHome 's stereo reproduction is clearly superior .
+clarity[+1] ## Vocals have greater clarity with the iHome as well .
+works[+1][v], sound[+1], size[+1], price[+1] ## I got it today , it works great , great sound for its size and price , I understand that the volume for iPhone and the towers own volume are two different things that should be placed at the right measures to get the better sound quality so I do n't complain for the fact of the remote not being able to control my iPhone , I highly recommend this tower .
+sound[+1][v] ## They sound wonderful , in my opinion , and I have n't even touched any equalizers .
+highs[+1], lows[+1], bass[+1] ## The highs and lows sound great and personally I think the bass is at a perfect level -LRB- at 50 % -RRB- , definitely not boomy .
+price[+1], sound[+1][v], bass[+1] ## Bottom line is for the price , these things sound GREAT and have tons of good bass .
+speakers[+1] ## These are great bike speakers for the weekend cycling in the park .
+mount[+1], use[+1][v] ## The mount is easy to use ... it 's just velcro straps to tie up on the handlebars .
+speakers[+1], sound[+1] ## I believe this are great speakers but you also have to accept the audio capabilities of your Desktop Computer or Laptop , I try this at BestBuy and the sound was perfect for this small speaker , now when I got home and try them on my desktop the sound was ok , I have a Mac and I wanted to avoid installing a sound card since it 's a nightmare to find a fully compatible PCI card , I found a great plug-in for Mac I-tunes , SRS Iwow , after installing the demo I was totally impress by the quality of sound , just a great alternative for mac users .
+sound[+1] ## The sound became instantly clear again .
+small[+1][a] ## Upon opening these I found them to be really small but having a solid feel to them .
+knob[+1] ## With the smooth knob I find it hard to judge if I am actually gripping it and turning it by feel alone .
+speaker mount[+1] ## This is the best speaker mount I had so far .
+speaker mount[+1], speaker[+1] ## This speaker mount is suitable for small speaker .
+JBL S310 II[+1] ## JBL S310 II is truly amazing .
+Sound[+1], bass[+1] ## Sound is crystal clear and the bass is very deep as well .
+speaker set[+1] ## I am using JBL N38 II as surround left & right , which is again a very nice excellent speaker set .
+unit[+1], dialogues[+1] ## The Center channel is JBL - S - Center II , this unit is very powerful and produces crystal clear dialogues , and it 's a 3-way speaker system .
+AVR 525[+1], sound[+1], clarity[+1] ## Harmon international has done a great job on all of these equipment , the AVR 525 produces crystal clear sound with excellent clarity .
+quality service[+1] ## <p> I am very happy about my investment and the quality service of Amazon and J&R store .
+product[+1] ## Great product , works perfectly for my office !!!
+BASS[+1], bass[+1] ## I love the BASS this thing gets , I have two 12 '' subs in my car , that should tell you enough if I am saying the bass is great !!
+devise[+1] ## All I can say is that this is an excellent devise .
+device[+1] ## I highly recommend this device !
+SOUND[+1] ## FAR SURPASSES ANYTHING I 'VE HEARD TO DATE FOR THEIR SUPERIOR SOUND .
+install[+1][v], music quality[+1] ## Apart from being very easy to install , and the excellent music quality , what I really find fascinating is discovering new artists with Internet radio stations or music providers .
+sound[+1][v] ## They sound wonderful the only issue is where to put them when I move around .
+speakers[+1] ## These speakers are great .
+sound[+1] ## They deliver great 5.1 sound when hooked up and ACTUALLY RECEIVING A 5.1 SIGNAL .
+speaker[+1] ## Wow , this speaker really rocks .
+speaker wire[+1] ## When I put it to use for my daughter 's graduation party in longer lengths , the speaker wire worked as expected , even out of doors .
+Portable[+1][a] ## Portable .
+Sound[+1] ## Great Sound .
+sound[+1] ## The subwoofer has terrific sound and gets really high !
+Sound[+1], look[+1] ## Pros : - Great Sound - Sleek cool look - Compact - Comes with RCA adapter - Speakers all swivel so they can be wall mounted Cons : - Mainly for PC only -LRB- but works fairly well with TV 's -RRB- - Wattage is n't all that high - No immediate line in -LRB- so you ca n't hook your MP3 player up and get SRS right out of the box -RRB- I 've heard a bunch of people say that the cord 's for the rear speakers are n't long enough .
+cost[+1] ## I 'd venture to say that because of it 's low cost it 's the best PC stereo set out there costwise .
+Audio Cube[+1] ## The Audio Cube is great .
+sound[+1], bass[+1], unit[+1] ## The sound is surprising full , with a fair amount of bass , even for such a small unit .
+works[+1][v] ## It works great for this purpose .
+sound[+1] ## Does what it should and the sound seems fine to me .
+setup[+1][v] ## This setup worked perfectly the first shot at it .
+worked[+1][v] ## I did not even have to hit the `` auto tune '' button , it just worked instantly .
+price[+1] ## If you want background music , better than your TV sound for movies , speakers around the house for parties , outside get togethers , this is about as good as you can expect , for the price .
+Works[+1][v] ## Works great !
+pair[+1][v] ## Easy to pair !
+sound[+1] ## Great sound !
+battery life[+1] ## Good battery life !
+Life[+1] ## Life is good .
+price[+1] ## Good price !
+sound[+1] ## The sound that came from that cheap little record player sounded like Carnegie Hall .
+speakers[+1] ## I absolutely LOVE these speakers .
+sound quality[+1] ## : - -LRB- All that being said , the speakers have good sound quality .
+sound[+1][v] ## I am using them in my office , and they generally sound good .
+sound[+1][v] ## Once I turn up the volume a touch , they sound really good .
